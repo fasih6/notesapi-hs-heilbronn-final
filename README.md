@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Note API
 
 A demo API for DevSecOps training.
@@ -15,3 +16,6 @@ Then open the `/docs` path to play with the API.
 Codecov Badge
 
 [![codecov](https://codecov.io/github/hs-heilbronn-devsecops-teamp123/note-api/branch/main/graph/badge.svg?token=9IKDRZLXDJ)](https://codecov.io/github/hs-heilbronn-devsecops-teamp123/note-api)
+=======
+# notesapi-hs-heilbronn-final
+>>>>>>> 91dba4283104c443ecf9b319f9c74e2e110c57f4
